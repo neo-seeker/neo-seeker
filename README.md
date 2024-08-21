@@ -5,7 +5,7 @@
 - 
 - 🌱 I’m currently learning ...8085, Assembly, C++, Python, PCB development, Microcontrollers, Software Defined Radio, Reverse Engineering (Software+Hardware)  
 -  
-- 💞️ I’m looking to collaborate on ... Product Development , Reverse Engineering, Security and Threat Analysis.  
+- 💞️ Collaborations on ... Product Development , Reverse Engineering, Security and Threat Analysis.  
 
 - 📫 How to reach me ... Ping me @ seeker.neo8080@gmail.com
 
