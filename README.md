@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neo-seeker, engineering professional with wide range of exposure to tech including primarily Aviation and IT. 
+- 👋 Hi, I’m an engineering professional with wide range of exposure to tech including primarily Aviation and IT. 
 -    Recently, I have divulged in Hardware and Firmware development. 
 -    
 - 👀 I’m interested in ...learning and contributing
